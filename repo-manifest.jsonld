@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dask/cachey/commit/789e03dbc64e4f39a56724f9b02643c02f704959",
       "git:hexsha": "789e03dbc64e4f39a56724f9b02643c02f704959",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:19:48.748066+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dask/cachey/commit/342255d731ee2840071d98c5357b50c6f87d2514",
