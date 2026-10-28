@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "dask",
+  "repo": "cachey",
+  "versions": [
+    {
+      "commit": "789e03dbc64e4f39a56724f9b02643c02f704959",
+      "parsed_at": "2026-10-28T11:17:18.000515+00:00",
+      "filetree": "filetree/789e03dbc64e4f39a56724f9b02643c02f704959.nq.gz",
+      "blobs": [
+        "blob/f9e8c2f9fde66a3c4c522bf4e831bc4e217fb585.nq.gz",
+        "blob/19cb69c444affca257b262d35813e6ab64fe7170.nq.gz",
+        "blob/8f36012f383b69f9452613b2a8d03e7a4b39f098.nq.gz",
+        "blob/7378dec685b7b8929117758c3a77e0bbcf90d6c8.nq.gz",
+        "blob/a5bcbc68355351a40a9c709a60e456775deefc33.nq.gz",
+        "blob/990fa3561f0a7e99a874b54db5da9dbb685b9bf2.nq.gz",
+        "blob/a24bf02c28c5392d62949d791ea4955e5b13fea3.nq.gz",
+        "blob/5e6aee600ff6adf9759508c3c2272ed26fbe8bf3.nq.gz",
+        "blob/f123f59d7356d6365f97efe14a1edf83b7abd391.nq.gz",
+        "blob/7eac6d00df2bdab68976c129ef4b319a307f4ffa.nq.gz",
+        "blob/7739d9f559acb16d5e820afa221919ed4a455193.nq.gz",
+        "blob/fad7fc968a1cc84203403b99670920175d874bfe.nq.gz",
+        "blob/ab4175a59fe6a4d47de60f899e7442bb1fde9585.nq.gz",
+        "blob/649c11513b9778bcd3f1a975545011c550ad506b.nq.gz",
+        "blob/c6d453569a7a916f27be6105e96bd3d967fd9226.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
